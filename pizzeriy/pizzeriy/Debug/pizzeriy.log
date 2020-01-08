@@ -1,0 +1,11 @@
+﻿  pizzeriy.cpp
+c:\users\badi\source\repos\pizzeriy\pizzeriy\menu.h(161): warning C4018: '<': signed/unsigned mismatch
+  c:\users\badi\source\repos\pizzeriy\pizzeriy\menu.h(156): note: while compiling class template member function 'void menu<pizza>::dayEnd(void)'
+  c:\users\badi\source\repos\pizzeriy\pizzeriy\pizzeriy.cpp(12): note: see reference to function template instantiation 'void menu<pizza>::dayEnd(void)' being compiled
+  c:\users\badi\source\repos\pizzeriy\pizzeriy\pizzeriy.cpp(9): note: see reference to class template instantiation 'menu<pizza>' being compiled
+c:\users\badi\source\repos\pizzeriy\pizzeriy\menu.h(50): warning C4018: '<': signed/unsigned mismatch
+  c:\users\badi\source\repos\pizzeriy\pizzeriy\menu.h(49): note: while compiling class template member function 'void menu<pizza>::printMenu(void)'
+  c:\users\badi\source\repos\pizzeriy\pizzeriy\menu.h(91): note: see reference to function template instantiation 'void menu<pizza>::printMenu(void)' being compiled
+  c:\users\badi\source\repos\pizzeriy\pizzeriy\menu.h(58): note: while compiling class template member function 'void menu<pizza>::producerSide(void)'
+  c:\users\badi\source\repos\pizzeriy\pizzeriy\pizzeriy.cpp(10): note: see reference to function template instantiation 'void menu<pizza>::producerSide(void)' being compiled
+  pizzeriy.vcxproj -> C:\Users\Badi\source\repos\pizzeriy\Debug\pizzeriy.exe
